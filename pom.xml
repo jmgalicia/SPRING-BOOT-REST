@@ -5,7 +5,7 @@
 
 	<groupId>com.jmgalicia</groupId>
 	<artifactId>spring-boot-rest</artifactId>
-	<version>0.4.0</version>
+	<version>1.0</version>
 	<packaging>war</packaging>
 	<description>REST API using Spring Boot, in-memory database, Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
