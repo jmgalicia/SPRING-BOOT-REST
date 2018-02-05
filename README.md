@@ -22,3 +22,6 @@ http://localhost:9001/info
 http://localhost:9001/metrics
 ```
 
+### To view Swagger 2 API docs
+
+Run the server and browse to localhost:9000/swagger-ui.html
